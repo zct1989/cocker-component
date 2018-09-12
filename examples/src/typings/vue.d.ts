@@ -7,6 +7,5 @@ declare module 'vue/types/vue' {
     $q: any
     $v: any
     $cocker: any
-    $router: any
   }
 }
